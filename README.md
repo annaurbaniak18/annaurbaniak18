@@ -18,6 +18,7 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * Creating scenarios
 * Reporting bugs
 * Databases:PostgreSQL
+* Operating Systems:Windows, Linux
 * Languages: Java (basic), Javascript (Test Automation)
 * Testing: Postman, XML,JSON, Cypress, Selenium IDE, WebdriverIO, 
 * Version Control Systems: GIT

@@ -23,6 +23,34 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * Version Control Systems: GIT
 * Other tools: Confluence, JIRA, Trello, TestLink, QTest, HTML, CSS,SASS. 
 
+# Courses
+* uTest Academy
+* Podstawy manualnego testowania oprogramowania
+* Praktyczny kurs testowania oprogramowania
+* Cypress od podstaw - Automatyzacja testów
+* Automatyzacja testów: WebdriverIO + Typescript - Jenkins
+* Kurs JAVA od podstaw +zadania
+* Selenium IDE - Kompletny kurs od podstaw [2021]
+* XML Podstawy-Krajowa Szkoła Skarbowości
+* AWS w 7 dni
+* [2023] JavaScript - Jedyny Kurs, Którego Potrzebujesz
+* [2023] 10 projektów w czystym JavaScript- w trakcie
+* Programowanie w Visual Basic (VBA) w Excelu
+* Kurs Tabele przestawne Excel
+* Kurs Tworzenia Stron WWW cz. I,II,III- MMC School
+* Maraton goIT html
+* Warsztaty z testowania manualnego Dotli. 
+
+# Technical Books read
+ * Tester oprogramowania - wsparcie na starcie
+ * Testowanie oprogramowania
+ * SQL w mgnieniu oka
+ 
+ # Groups for knowledge gathering
+ [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
+
+
+
 
 
 

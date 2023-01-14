@@ -74,7 +74,7 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * My on-line CV written in HTML/CSS
 In June 2022 I participated in GoIT one week maraton during wich I learn how to create an on-line CV in HTML & CSS. On-line version can be found here:
 
-* Restaurant Bills- Simply aplication that allows you to settle a joint bill in a restaurant. (JavaScript). 
+* Restaurant Bills- Simply aplication that allows you to settle a joint bill in a restaurant.
 
 
 

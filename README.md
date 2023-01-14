@@ -68,6 +68,7 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * Bug Reports
 * Test Reports
 * Test Cases
+[kalkulator akcyzy] (https://docs.google.com/spreadsheets/d/182B8R2pLKRCxkye8qLrgPOB13XbJl9pgMHSJgnKCpeU/edit?usp=sharing)
 * Test Scenarios
 
 # My Projects

@@ -41,13 +41,40 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * Maraton goIT html
 * Warsztaty z testowania manualnego Dotli. 
 
+# Soft Skills
+* Scrum
+* Teamwork
+* Excellent communication skills
+* Task prioritization
+* Process Improvement
+* 
 # Technical Books read
  * Tester oprogramowania - wsparcie na starcie
  * Testowanie oprogramowania
  * SQL w mgnieniu oka
  
  # Groups for knowledge gathering
- [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+* [HTML,CSS i JS: Pierwsze Kroki](https://www.facebook.com/groups/742940452405327/?hoisted_section_header_type=recently_seen&multi_permalinks=6186212858078032)
+
+# Recomended blogs
+* remigiuszbednarczyk.pl
+* testuj.pl - Test, Bugs & Rock'n'Roll
+* [Newsletter] (https://webdevnews.pl/)
+
+# My Test Documentation
+* Bug Reports
+* Test Reports
+* Test Cases
+* Test Scenarios
+
+# My Projects
+* My on-line CV written in HTML/CSS
+In June 2022 I participated in GoIT one week maraton during wich I learn how to create an on-line CV in HTML & CSS. On-line version can be found here:
+
+* Restaurant Bills- Simply aplication that allows you to settle a joint bill in a restaurant. (JavaScript). 
+
 
 
 

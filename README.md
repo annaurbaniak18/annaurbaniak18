@@ -8,8 +8,20 @@ In my spare time, I take part in tests on the uTest platform and learn about new
 Learn on your own using Udemy's courses, tutorials, and webinars and marathons on IT, testing and
 development. I am also learning the basics of Java and JavaScript to expand my automated testing skills in the future.
 
-# Tools used in testing:
+# Tools used in testing
   * Chrome Dev Tools
+
+# Tech Stack
+
+* Knowledge ISTQB FL
+* Creating test case
+* Creating scenarios
+* Reporting bugs
+* Databases:PostgreSQL
+* Languages: Java (basic), Javascript (Test Automation)
+* Testing: Postman, XML,JSON, Cypress, Selenium IDE, WebdriverIO, 
+* Version Control Systems: GIT
+* Other tools: Confluence, JIRA, Trello, TestLink, QTest, HTML, CSS,SASS. 
 
 
 

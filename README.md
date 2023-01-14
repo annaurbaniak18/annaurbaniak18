@@ -47,7 +47,7 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * Excellent communication skills
 * Task prioritization
 * Process Improvement
-* 
+
 # Technical Books read
  * Tester oprogramowania - wsparcie na starcie
  * Testowanie oprogramowania

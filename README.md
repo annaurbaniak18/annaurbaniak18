@@ -66,7 +66,7 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 
 # My Test Documentation
 * [Bug Reports](https://github.com/annaurbaniak18/annaurbaniak18/tree/main/Zg%C5%82oszenia%20b%C5%82%C4%99d%C3%B3w)
-* Test Reports 
+* [Test Reports](https://github.com/annaurbaniak18/annaurbaniak18/tree/main/Raporty)
 * [Test Cases](https://github.com/annaurbaniak18/annaurbaniak18/tree/main/Przypadki%20testowe)
  
 [kalkulator akcyzy] (https://docs.google.com/spreadsheets/d/182B8R2pLKRCxkye8qLrgPOB13XbJl9pgMHSJgnKCpeU/edit?usp=sharing)

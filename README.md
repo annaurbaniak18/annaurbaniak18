@@ -65,16 +65,14 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * [Newsletter] (https://webdevnews.pl/)
 
 # My Test Documentation
-* Bug Reports
-* Test Reports
-* Test Cases
+* [Bug Reports] (https://github.com/annaurbaniak18/annaurbaniak18/tree/main/Zg%C5%82oszenia%20b%C5%82%C4%99d%C3%B3w)
+* Test Reports 
+* [Test Cases](https://github.com/annaurbaniak18/annaurbaniak18/tree/main/Przypadki%20testowe)
  
 [kalkulator akcyzy] (https://docs.google.com/spreadsheets/d/182B8R2pLKRCxkye8qLrgPOB13XbJl9pgMHSJgnKCpeU/edit?usp=sharing)
 * Test Scenarios
 
 # My Projects
-* My on-line CV written in HTML/CSS
-In June 2022 I participated in GoIT one week maraton during wich I learn how to create an on-line CV in HTML & CSS. On-line version can be found here:
 
 * Restaurant Bills- Simply aplication that allows you to settle a joint bill in a restaurant.
 

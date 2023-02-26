@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, my name is Anna Urbaniak, I am a beginner manual tester, here I would like to show you my projects and the knowledge I have. I am a communicative, thorough, committed person and I have a great willingness to learn and develop myself. My goal is to develop testing knowledge and technical skills.
+Hi, my name is Anna Urbaniak, I am a manual tester, here I would like to show you my projects and the knowledge I have. I am a communicative, thorough, committed person and I have a great willingness to learn and develop myself. My goal is to develop testing knowledge and technical skills.
 I am an IT technician by profession. I completed postgraduate studies in Computer Network Administration.
 In my spare time, I take part in tests on the uTest platform and learn about new tools to support tests.
 Learn on your own using Udemy's courses, tutorials, and webinars and marathons on IT, testing and
@@ -20,9 +20,9 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * Databases:PostgreSQL
 * Operating Systems:Windows, Linux
 * Languages: Java (basic), Javascript (Test Automation)
-* Testing: Postman, XML,JSON, Cypress, Selenium IDE, WebdriverIO, 
+* Testing: Postman, XML,JSON, Cypress, Selenium IDE, WebdriverIO, SOAPUI, Gherkin Language
 * Version Control Systems: GIT
-* Other tools: Confluence, JIRA, Trello, TestLink, QTest, HTML, CSS,SASS. 
+* Other tools: Confluence, JIRA, Trello, TestLink, TestRail, HTML, CSS,SASS, Bootstrap. 
 
 # Courses
 * uTest Academy
@@ -41,6 +41,9 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * Kurs Tworzenia Stron WWW cz. I,II,III- MMC School
 * Maraton goIT html
 * Warsztaty z testowania manualnego Dotli. 
+* Praktyczny maraton goIT QA
+* Gherkin Language
+* JAVA, Junit5- currently implemented
 
 # Soft Skills
 * Scrum

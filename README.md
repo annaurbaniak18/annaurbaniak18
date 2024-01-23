@@ -20,9 +20,9 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * Databases:PostgreSQL
 * Operating Systems:Windows, Linux
 * Languages: Java (basic), Javascript (Test Automation)
-* Testing: Postman, XML,JSON, Cypress, Selenium IDE, WebdriverIO, SOAPUI, Gherkin Language
+* Testing: Postman, XML,JSON, Cypress, Selenium IDE, Appium with WebdriverIO, SOAPUI, Gherkin Language, Playwright (JS)
 * Version Control Systems: GIT
-* Other tools: Confluence, JIRA, Trello, TestLink, TestRail, HTML, CSS,SASS, Bootstrap. 
+* Other tools: Confluence, JIRA, Trello, TestLink, TestRail, HTML, CSS,SASS, Bootstrap, Azure DevOps
 
 # Courses
 * uTest Academy
@@ -78,6 +78,9 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 # My Projects
 
 * Restaurant Bills- Simply aplication that allows you to settle a joint bill in a restaurant.
+* Playwright tests with JavaScript: [Playwright](https://github.com/annaurbaniak18/Playwright_tests-JS.git)
+* Appium Android Tests: [Appium](https://github.com/annaurbaniak18/Appium-android-repository.git)
+* Cypress tests: [Cypress](https://github.com/annaurbaniak18/Cypress-tests.git)
 
 
 

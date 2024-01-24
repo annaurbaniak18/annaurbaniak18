@@ -8,6 +8,14 @@ In my spare time, I take part in tests on the uTest platform and learn about new
 Learn on your own using Udemy's courses, tutorials, and webinars and marathons on IT, testing and
 development. I am also learning the basics of Java and JavaScript to expand my automated testing skills in the future.
 
+# My Projects
+
+* Restaurant Bills- Simply aplication that allows you to settle a joint bill in a restaurant.
+* Playwright tests with JavaScript: [Playwright](https://github.com/annaurbaniak18/Playwright_tests-JS.git)
+* Appium Android Tests: [Appium](https://github.com/annaurbaniak18/Appium-android-repository.git)
+* Cypress tests: [Cypress](https://github.com/annaurbaniak18/Cypress-tests.git)
+
+
 # Tools used in testing
   * Chrome Dev Tools
 
@@ -75,12 +83,6 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 [kalkulator akcyzy] (https://docs.google.com/spreadsheets/d/182B8R2pLKRCxkye8qLrgPOB13XbJl9pgMHSJgnKCpeU/edit?usp=sharing)
 * Test Scenarios
 
-# My Projects
-
-* Restaurant Bills- Simply aplication that allows you to settle a joint bill in a restaurant.
-* Playwright tests with JavaScript: [Playwright](https://github.com/annaurbaniak18/Playwright_tests-JS.git)
-* Appium Android Tests: [Appium](https://github.com/annaurbaniak18/Appium-android-repository.git)
-* Cypress tests: [Cypress](https://github.com/annaurbaniak18/Cypress-tests.git)
 
 
 

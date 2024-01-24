@@ -15,6 +15,14 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * Appium Android Tests: [Appium](https://github.com/annaurbaniak18/Appium-android-repository.git)
 * Cypress tests: [Cypress](https://github.com/annaurbaniak18/Cypress-tests.git)
 
+# My Test Documentation
+* [Bug Reports](https://github.com/annaurbaniak18/annaurbaniak18/tree/main/Zg%C5%82oszenia%20b%C5%82%C4%99d%C3%B3w)
+* [Test Reports](https://github.com/annaurbaniak18/annaurbaniak18/tree/main/Raporty)
+* [Test Cases](https://github.com/annaurbaniak18/annaurbaniak18/tree/main/Przypadki%20testowe)
+ 
+[kalkulator akcyzy] (https://docs.google.com/spreadsheets/d/182B8R2pLKRCxkye8qLrgPOB13XbJl9pgMHSJgnKCpeU/edit?usp=sharing)
+* Test Scenarios
+
 
 # Tools used in testing
   * Chrome Dev Tools
@@ -75,13 +83,6 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * testuj.pl - Test, Bugs & Rock'n'Roll
 * [Newsletter] (https://webdevnews.pl/)
 
-# My Test Documentation
-* [Bug Reports](https://github.com/annaurbaniak18/annaurbaniak18/tree/main/Zg%C5%82oszenia%20b%C5%82%C4%99d%C3%B3w)
-* [Test Reports](https://github.com/annaurbaniak18/annaurbaniak18/tree/main/Raporty)
-* [Test Cases](https://github.com/annaurbaniak18/annaurbaniak18/tree/main/Przypadki%20testowe)
- 
-[kalkulator akcyzy] (https://docs.google.com/spreadsheets/d/182B8R2pLKRCxkye8qLrgPOB13XbJl9pgMHSJgnKCpeU/edit?usp=sharing)
-* Test Scenarios
 
 
 

@@ -55,10 +55,18 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * Programowanie w Visual Basic (VBA) w Excelu
 * Kurs Tabele przestawne Excel
 * Kurs Tworzenia Stron WWW cz. I,II,III- MMC School
-* Maraton goIT html
 * Warsztaty z testowania manualnego Dotli. 
 * Praktyczny maraton goIT QA
 * Gherkin Language
+* QATestLab- warsztaty testowania 
+* Mastering TypeScript 2024
+* Mobile Automation with Appium 2.0 and WebdriverIO - 2024
+* Automated Web Testing with JavaScript and Playwright
+* Performance Testing Foundations
+* Learn JMETER from Scratch on Live Apps -Performance Testing
+* Cypress End-to-End Testing - Getting Started
+* Kurs Cucumber BDD dla testerów automatyzujących
+* Kurs Jenkins dla testerów automatyzujących
 * JAVA, Junit5- currently implemented
 
 # Soft Skills

@@ -29,7 +29,7 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 
 # Tech Stack
 
-* Knowledge ISTQB FL
+* Certificate Tester ISTQB FL
 * Creating test case
 * Creating scenarios
 * Reporting bugs
